@@ -1,1 +1,2 @@
 # mpgTools
+#This project is my final R package for LIS 4761. I built a small package called 'mpgTools' that uses the `mpg` dataset from ggplot2 to explore fuel efficiency. The package includes functions that summarize MPG, create visualizations, and fit a simple linear model, plus custom S3 methods and an R Markdown vignette. Everything in this repo is what I submitted for the assignment, including my code, documentation, and vignette.
