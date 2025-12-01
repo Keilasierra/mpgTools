@@ -1,0 +1,23 @@
+Package: mpgTools
+Title: Tools for Exploring Car Fuel Efficiency with the mpg Dataset
+Version: 0.0.0.9000
+Authors@R: 
+    person("keila", "sierra", , "keilasierra@usf.edu", role = c("aut", "cre"))
+Description: Provides helper functions and visualizations for exploring
+    fuel efficiency using the 'mpg' dataset from ggplot2, including
+    summaries, plots, and linear models. Demonstrates defensive
+    programming, documentation, and S3 methods for the final project.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    ggplot2,
+    stats
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/Keilasierra/mpgTools.git
+BugReports: https://github.com/KeilaSierra/mpgTools/issues
+
